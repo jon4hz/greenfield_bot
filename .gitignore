@@ -1,0 +1,4 @@
+tmp/
+.env
+alerts.json
+.vscode/
